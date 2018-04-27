@@ -41,10 +41,10 @@
 		119AD1592092D17100AA7DFC /* WagHWAvatarManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WagHWAvatarManager.m; sourceTree = "<group>"; };
 		119AD15C2092DD3300AA7DFC /* WagHWCoreDataManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WagHWCoreDataManager.h; sourceTree = "<group>"; };
 		119AD15D2092DD3300AA7DFC /* WagHWCoreDataManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WagHWCoreDataManager.m; sourceTree = "<group>"; };
-		119AD15F2092DEA600AA7DFC /* WagHWStackOverflowUser+CoreDataClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "WagHWStackOverflowUser+CoreDataClass.m"; path = "/Users/sarahlee/Documents/WagHomework/WagHomework/Model/WagHWStackOverflowUser+CoreDataClass.m"; sourceTree = "<absolute>"; };
-		119AD1602092DEA600AA7DFC /* WagHWStackOverflowUser+CoreDataClass.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "WagHWStackOverflowUser+CoreDataClass.h"; path = "/Users/sarahlee/Documents/WagHomework/WagHomework/Model/WagHWStackOverflowUser+CoreDataClass.h"; sourceTree = "<absolute>"; };
-		119AD1612092DEA600AA7DFC /* WagHWStackOverflowUser+CoreDataProperties.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "WagHWStackOverflowUser+CoreDataProperties.m"; path = "/Users/sarahlee/Documents/WagHomework/WagHomework/Model/WagHWStackOverflowUser+CoreDataProperties.m"; sourceTree = "<absolute>"; };
-		119AD1622092DEA600AA7DFC /* WagHWStackOverflowUser+CoreDataProperties.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "WagHWStackOverflowUser+CoreDataProperties.h"; path = "/Users/sarahlee/Documents/WagHomework/WagHomework/Model/WagHWStackOverflowUser+CoreDataProperties.h"; sourceTree = "<absolute>"; };
+		119AD15F2092DEA600AA7DFC /* WagHWStackOverflowUser+CoreDataClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "WagHWStackOverflowUser+CoreDataClass.m"; sourceTree = "<group>"; };
+		119AD1602092DEA600AA7DFC /* WagHWStackOverflowUser+CoreDataClass.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "WagHWStackOverflowUser+CoreDataClass.h"; sourceTree = "<group>"; };
+		119AD1612092DEA600AA7DFC /* WagHWStackOverflowUser+CoreDataProperties.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "WagHWStackOverflowUser+CoreDataProperties.m"; sourceTree = "<group>"; };
+		119AD1622092DEA600AA7DFC /* WagHWStackOverflowUser+CoreDataProperties.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "WagHWStackOverflowUser+CoreDataProperties.h"; sourceTree = "<group>"; };
 		119AD1662092E07B00AA7DFC /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
 		119AD1672092E07B00AA7DFC /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
 		119AD1692092E08A00AA7DFC /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
@@ -111,9 +111,9 @@
 		11BE857B2092ABB800083D66 /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				119AD1622092DEA600AA7DFC /* WagHWStackOverflowUser+CoreDataProperties.h */,
 				119AD1602092DEA600AA7DFC /* WagHWStackOverflowUser+CoreDataClass.h */,
 				119AD15F2092DEA600AA7DFC /* WagHWStackOverflowUser+CoreDataClass.m */,
+				119AD1622092DEA600AA7DFC /* WagHWStackOverflowUser+CoreDataProperties.h */,
 				119AD1612092DEA600AA7DFC /* WagHWStackOverflowUser+CoreDataProperties.m */,
 				11BE857C2092ABB800083D66 /* WagHomework.xcdatamodeld */,
 				119AD14F2092C45500AA7DFC /* WagHWStackOverflowAPIUser.h */,
